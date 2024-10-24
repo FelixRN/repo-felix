@@ -1,4 +1,4 @@
-nombre ="Felix "
+nombre ="PEPE "
 apellido = "Ñacari"
 
 saludo = "Hola " + nombre + " " + apellido
